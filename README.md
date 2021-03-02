@@ -1,8 +1,8 @@
 
 # Snow Algorithm
-###### NodeJs
+**NodeJs**
 
-**Run $node snow_algo_es.js or $node snow_algo_en.**
+###### Run $node snow_algo_es.js or $node snow_algo_en.js on terminal.
 
 This algorithm resolves a situation where you give it different columns 
 with different heights and it calculates where the snow should fall in 
